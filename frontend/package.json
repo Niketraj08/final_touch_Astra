@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@hcaptcha/react-hcaptcha": "^1.17.1",
     "axios": "^1.6.8",
     "framer-motion": "^11.2.12",
